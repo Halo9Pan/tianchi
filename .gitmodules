@@ -1,3 +1,9 @@
 [submodule "ijcai_18"]
 	path = ijcai_18
 	url = git@gist.github.com:f0f26221fb82f57ad048f3bf6e0b82b3.git
+[submodule "fashionAI_key_points"]
+	path = fashionAI_key_points
+	url = git@gist.github.com:d97cdaad1a7382e5f04857177c84a9be.git
+[submodule "fashionAI_attributes"]
+	path = fashionAI_attributes
+	url = git@gist.github.com:74a0a1bd0eb23ee791d17349f340aed8.git
