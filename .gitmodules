@@ -16,3 +16,6 @@
 [submodule "ICPR_MTWI_2018_3"]
 	path = ICPR_MTWI_2018_3
 	url = git@gist.github.com:a4d050fefaaca87cd62ba4e535ba3985.git
+[submodule "meinian"]
+	path = meinian
+	url = git@gist.github.com:ef6a99fffa87ce4c2180f466fdf1dfe4.git
