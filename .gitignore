@@ -1,0 +1,22 @@
+# IDE
+.vscode
+
+# Archive Files
+*.zip
+*.7z
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+
+# Log file
+*.log
+
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
