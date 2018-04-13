@@ -7,15 +7,9 @@
 [submodule "fashionAI_attributes"]
 	path = fashionAI_attributes
 	url = git@gist.github.com:74a0a1bd0eb23ee791d17349f340aed8.git
-[submodule "ICPR_MTWI_2018_1"]
-	path = ICPR_MTWI_2018_1
-	url = git@gist.github.com:a91957e9a9e3049eec611931e64d6610.git
-[submodule "ICPR_MTWI_2018_2"]
-	path = ICPR_MTWI_2018_2
-	url = git@gist.github.com:7122441b5b4a7bed6259372b7c83f319.git
-[submodule "ICPR_MTWI_2018_3"]
-	path = ICPR_MTWI_2018_3
-	url = git@gist.github.com:a4d050fefaaca87cd62ba4e535ba3985.git
 [submodule "meinian"]
 	path = meinian
 	url = git@gist.github.com:ef6a99fffa87ce4c2180f466fdf1dfe4.git
+[submodule "ICPR_MTWI_2018"]
+	path = ICPR_MTWI_2018
+	url = git@gist.github.com:a91957e9a9e3049eec611931e64d6610.git
