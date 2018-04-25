@@ -13,3 +13,9 @@
 [submodule "ICPR_MTWI_2018"]
 	path = ICPR_MTWI_2018
 	url = git@gist.github.com:a91957e9a9e3049eec611931e64d6610.git
+[submodule "atec_anti_fraud"]
+	path = atec_anti_fraud
+	url = git@gist.github.com:fb13e539285b791690dee064f88d3010.git
+[submodule "atec_nlp_sim"]
+	path = atec_nlp_sim
+	url = git@gist.github.com:cbe119519a2645ab0f23e27ef314fa68.git
